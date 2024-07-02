@@ -22,6 +22,10 @@ input{
     cursor: pointer;
     color: black;
 }
+.btn:hover{
+    border:rgb(233, 180, 66) ;
+    background-color: rgb(233, 180, 66);
+}
 input:focus{
     outline: none;
     border-color:rgb(233, 180, 66); 
