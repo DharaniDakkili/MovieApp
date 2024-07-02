@@ -1,4 +1,4 @@
-let API = 'http://www.omdbapi.com/?i=tt3896198&apikey=d0acea54&t='
+let API = 'https://www.omdbapi.com/?i=tt3896198&apikey=d0acea54&t='
 
 // let API ='http://www.omdbapi.com/?apikey=61e576a4&t=';
 let loadingStatus = false;
